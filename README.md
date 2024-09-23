@@ -1,2 +1,2 @@
-# Event-Tracking-
+A python code based event tracker 
 
